@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Currency Converter Application</string>
+    <string-array name="spinner_items">
+        <item>Euro</item>
+        <item>Indian Rupee</item>
+        <item>British Pound</item>
+    </string-array>
+</resources>
